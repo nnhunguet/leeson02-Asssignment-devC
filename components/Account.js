@@ -146,7 +146,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
   countWrapper: {
-    alignItems: "center"
+    alignItems: "center",
+    marginVertical: 20,
   },
   count: {
     fontSize: 24,
